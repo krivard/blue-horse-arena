@@ -1,5 +1,6 @@
 # blue-horse-arena
 
+another small change
 
 making changes to unaffected lines 
 
